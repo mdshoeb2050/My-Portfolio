@@ -3,7 +3,7 @@
 Designed and developed a personal portfolio website to showcase my skills, experience, and projects. The website features a responsive layout, modern design, and 
 interactive features to engage visitors.
 
-## 📌 **Live Site URL:** <a href="#">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://mdshoeb2050.github.io/My-Portfolio/">**Visit Now** 🚀</a>
 
 <br>
 
@@ -15,7 +15,7 @@ interactive features to engage visitors.
 
 ## 📬 Connect With Me
 
-- **LinkedIn** - [Indra Shekhar](https://www.linkedin.com/in/md-shoeb-22616a222/)
+- **LinkedIn** - [Md. Shoeb](https://www.linkedin.com/in/md-shoeb-22616a222/)
 <!-- - **Twitter** - [@Indra684](#) -->
 
 ## 📌 Acknowledgments
